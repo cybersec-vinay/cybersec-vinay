@@ -1,6 +1,6 @@
  Hi, I'm Vinay Raghavendra B V👋  
 
-🚀 Aspiring Cloud Security Engineer | Cybersecurity Enthusiast 
+🚀 Aspiring Cloud Security Engineer | Cybersecurity Enthusiast  
 🔹 Google Cloud Associate Cloud Engineer Certified (In Progress)  
 🔹 Learning Azure Security & Cloud Security Basics  
 🔹 Exploring Cybersecurity Projects & Cloud-Based Security Solutions  
