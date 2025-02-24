@@ -1,16 +1,14 @@
-## Hi there 👋
+ Hi, I'm Vinay Raghavendra B V👋  
 
-<!--
-**cybersec-vinay/cybersec-vinay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Cloud Security Engineer | Cybersecurity Enthusiast 
+🔹 Google Cloud Associate Cloud Engineer Certified (In Progress)  
+🔹 Learning Azure Security & Cloud Security Basics  
+🔹 Exploring Cybersecurity Projects & Cloud-Based Security Solutions  
 
-Here are some ideas to get you started:
+📌 **Current Focus:**  
+- Studying for Google Cloud Associate Cloud Engineer certification  
+- Hands-on cybersecurity labs & cloud security projects  
+- Seeking an entry-level security-focused job  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 **Let's Connect!**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]www.linkedin.com/in/vinay-raghavendra-a7a0b7329
