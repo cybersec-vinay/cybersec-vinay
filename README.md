@@ -17,7 +17,7 @@ Welcome to my curated portfolio of 25+ hands-on cybersecurity projects, designed
 
 | # | Project Title |
 |--:|---------------|
-| 1 | [AWS CloudTrail Detection & Automated Response]([./AWS%20CloudTrail%20Detection%20%26%20Automated%20Respo...](https://github.com/cybersec-vinay/Cybersecurity-Projects-/tree/main/AWS%20CloudTrail%20Detection%20%26%20Automated%20Response)) |
+| 1 | [AWS CloudTrail Detection & Automated Response](https://github.com/cybersec-vinay/Cybersecurity-Projects-/tree/main/AWS%20CloudTrail%20Detection%20%26%20Automated%20Response) |
 | 2 | [Data-Exfiltration-Detection](./Data-Exfiltration-Detection) |
 | 3 | [Log Correlation & Detection Engineering](./Log%20Correlation%20%26%20Detection%20Engineering) |
 | 4 | [SIEM-Windows-Log-Analysis](./SIEM-Windows-Log-Analysis) |
