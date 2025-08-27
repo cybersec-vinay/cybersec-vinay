@@ -42,6 +42,10 @@ Welcome to my curated portfolio of 25+ hands-on cybersecurity projects, designed
 | 23 | [Email Phishing Analysis](https://github.com/cybersec-vinay/Cybersecurity-Projects-/tree/main/email-phishing-analysis) |
 | 24 | [Suspicious SSH Wget Correlation](https://github.com/cybersec-vinay/Cybersecurity-Projects-/tree/main/suspicious-ssh-wget-correlation) |
 | 25 | [Steganography Tool](https://github.com/cybersec-vinay/steganography-tool)
+| 26 | [3-VM-Network-Lab](https://github.com/cybersec-vinay/Cybersecurity-Projects-/tree/main/3-VM-Network-Lab)
+| 27 | [ Linux Administration & Scripting](https://github.com/cybersec-vinay/Cybersecurity-Projects-/tree/main/Linux%20Administration%20%26%20Scripting)
+| 28 | [Windows Server Active Directory Project](https://github.com/cybersec-vinay/Cybersecurity-Projects-/tree/main/Windows%20Server%20Active%20Directory%20Project)
+
 
 ---
 
